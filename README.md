@@ -1,2 +1,2 @@
 # FIRSTrepo
-This is my first ever repo uploaded on vs code
+This is my first ever repo uploaded on vs code.
