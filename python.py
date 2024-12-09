@@ -14,4 +14,4 @@ def root():
 @app.post("/posts") 
 def create_book(book: Book):
      Books.append(book) 
-     return book  
+     return book   
